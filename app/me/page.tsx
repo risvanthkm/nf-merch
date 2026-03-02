@@ -90,7 +90,7 @@ function ShirtCard() {
             ))}
           </div>
           <div>
-            <button className="size-chart-btn" onClick={() => setShowSizeChart(true)}>📏 Size Chart (dot guess, measure!)</button>
+            <button className="size-chart-btn" onClick={() => setShowSizeChart(true)}>📏 Size Chart (dont guess, measure!)</button>
           </div>
           <button className="buy-btn">💥 BUY NOW!</button>
         </div>
